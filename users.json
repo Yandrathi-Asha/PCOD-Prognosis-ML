@@ -1,0 +1,1857 @@
+{
+  "users": [
+    {
+      "username": "asha",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "created": "2025-10-29T15:51:24.264329",
+      "profile": {},
+      "history": [
+        {
+          "timestamp": "2025-10-29T15:51:45.292015",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029155144_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T15:58:33.976010",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029155831_ChatGPT Image Oct 29, 2025, 09_27_57 PM.png",
+            "cysts": 8,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T15:59:09.145960",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 40.0,
+            "bmi": 15.6,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 4.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029155907_ChatGPT Image Oct 29, 2025, 09_27_57 PM.png",
+            "cysts": 8,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 43.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Underweight/low",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 4.0 ml",
+              "us_score": 100.0,
+              "raw_score": 43.0
+            },
+            "bmi": 15.6
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:04:53.185350",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029160451_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:07:12.019319",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029160710_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level A \u2014 Mild",
+            "color": "#16a34a",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:08:15.859229",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029160811_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level A \u2014 Mild",
+            "color": "#16a34a",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:09:03.371829",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029160859_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:25:12.982504",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029162511_asha_20251029155144_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level-B",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "BMI normal",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:38:34.417871",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029163830_asha_20251029160810_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level-B",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "BMI normal",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:46:56.302362",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029164655_asha_20251029160710_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level-B",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "BMI normal",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:48:02.848968",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029164800_asha_20251029160811_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:52:07.786132",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029165204_asha_20251029160810_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:52:30.549124",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029165229_asha_20251029160710_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:52:51.549817",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029165249_ChatGPT Image Oct 29, 2025, 09_27_57 PM.png",
+            "cysts": 8,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:54:35.038201",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029165433_asha_20251029160710_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T16:58:27.970710",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029165826_asha_20251029155144_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-29T17:02:06.487325",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251029170205_asha_20251029160710_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-30T04:16:29.616636",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251030041627_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-30T04:18:56.648979",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251030041854_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-30T05:58:12.842129",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251030055806_asha_20251029165204_asha_20251029160810_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-31T17:31:05.363824",
+          "data": {
+            "age": 15,
+            "height": 120.0,
+            "weight": 30.0,
+            "bmi": 20.8,
+            "cycle_irregular": true,
+            "cycle_days": 20,
+            "ovary_volume": 4.0,
+            "acne": true,
+            "hair": true,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251031173102_asha_20251030041627_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 59.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Younger age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "Acne present",
+              "hair_note": "Excess hair/hair fall",
+              "ovary_note": "Ovary volume: 4.0 ml",
+              "us_score": 100.0,
+              "raw_score": 59.0
+            },
+            "bmi": 20.8
+          }
+        },
+        {
+          "timestamp": "2025-10-31T17:31:41.156904",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 18,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251031173139_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-31T17:33:53.694186",
+          "data": {
+            "age": 20,
+            "height": 120.0,
+            "weight": 30.0,
+            "bmi": 20.8,
+            "cycle_irregular": true,
+            "cycle_days": 20,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": true,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251031173345_ChatGPT Image Oct 29, 2025, 09_27_57 PM.png",
+            "cysts": 8,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 56.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "Excess hair/hair fall",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 56.0
+            },
+            "bmi": 20.8
+          }
+        },
+        {
+          "timestamp": "2025-10-31T17:34:28.205016",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 20,
+            "ovary_volume": 2.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251031173423_asha_20251030041854_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 2.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-31T17:35:03.505207",
+          "data": {
+            "age": 20,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251031173501_asha_20251030041854_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-31T17:35:30.602246",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": false,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251031173527_asha_20251030041627_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level A \u2014 Normal",
+            "color": "#16a34a",
+            "score": 30.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Regular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 30.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-31T17:37:31.725272",
+          "data": {
+            "age": 20,
+            "height": 130.0,
+            "weight": 45.0,
+            "bmi": 26.6,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 6.0,
+            "acne": true,
+            "hair": true,
+            "stress_high": true,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251031173730_asha_20251029165229_asha_20251029160710_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 73.0,
+            "confidence": 70.1,
+            "explanation": {
+              "bmi_note": "Overweight",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "Acne present",
+              "hair_note": "Excess hair/hair fall",
+              "ovary_note": "Ovary volume: 6.0 ml",
+              "us_score": 100.0,
+              "raw_score": 73.0
+            },
+            "bmi": 26.6
+          }
+        },
+        {
+          "timestamp": "2025-10-31T17:38:26.024013",
+          "data": {
+            "age": 21,
+            "height": 140.0,
+            "weight": 50.0,
+            "bmi": 25.5,
+            "cycle_irregular": true,
+            "cycle_days": 24,
+            "ovary_volume": 5.0,
+            "acne": true,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251031173819_asha_20251029160811_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 61.0,
+            "confidence": 64.7,
+            "explanation": {
+              "bmi_note": "Overweight",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "Acne present",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 5.0 ml",
+              "us_score": 100.0,
+              "raw_score": 61.0
+            },
+            "bmi": 25.5
+          }
+        },
+        {
+          "timestamp": "2025-10-31T17:38:46.879133",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251031173845_asha_20251031173139_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-10-31T17:39:05.936092",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": false,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251031173902_asha_20251030055806_asha_20251029165204_asha_20251029160810_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level A \u2014 Normal",
+            "color": "#16a34a",
+            "score": 30.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Regular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 30.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-11-01T04:25:16.220568",
+          "data": {
+            "age": 20,
+            "height": 160.0,
+            "weight": 39.99,
+            "bmi": 15.6,
+            "cycle_irregular": false,
+            "cycle_days": 23,
+            "ovary_volume": 5.0,
+            "acne": true,
+            "hair": true,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101042513_asha_20251030041627_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level A \u2014 Normal",
+            "color": "#16a34a",
+            "score": 39.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Underweight/low",
+              "age_note": "Reproductive age",
+              "cycle_note": "Regular cycles",
+              "acne_note": "Acne present",
+              "hair_note": "Excess hair/hair fall",
+              "ovary_note": "Ovary volume: 5.0 ml",
+              "us_score": 100.0,
+              "raw_score": 39.0
+            },
+            "bmi": 15.6
+          }
+        },
+        {
+          "timestamp": "2025-11-01T04:25:39.751053",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101042537_asha_20251030041852_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-11-01T04:26:43.090173",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101042640_asha_20251030055806_asha_20251029165204_asha_20251029160810_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-11-01T04:27:09.027690",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": true,
+            "hair": true,
+            "stress_high": true,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101042705_asha_20251029165204_asha_20251029160810_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 66.0,
+            "confidence": 63.2,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "Acne present",
+              "hair_note": "Excess hair/hair fall",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 66.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-11-01T04:27:36.300891",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101042734_asha_20251030041852_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-11-01T05:33:43.064566",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101053339_asha_20251029165204_asha_20251029160810_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-11-01T05:40:02.901649",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101054001_WhatsApp Image 2025-11-01 at 11.06.49_ebfbedcd.jpg",
+            "cysts": 1,
+            "us_score": 48.6
+          },
+          "prognosis": {
+            "level": "Level A \u2014 Normal",
+            "color": "#16a34a",
+            "score": 37.7,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 48.6,
+              "raw_score": 37.7
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-11-01T05:42:06.695831",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101054203_asha_20251029165204_asha_20251029160810_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-11-01T05:46:39.029146",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101054638_a1.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-11-01T14:53:59.923224",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101145356_asha_20251029160811_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0,
+              "cysts": 14
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-11-01T14:56:52.796652",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251101145651_a1.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0,
+              "cysts": 7
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-12-03T15:12:11.785006",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251203151206_asha_20251029160811_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0,
+              "cysts": 14
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-12-03T15:28:21.528532",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251203152818_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0,
+              "cysts": 7
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-12-03T15:30:32.367438",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251203153029_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0,
+              "cysts": 7
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-12-03T15:33:16.979359",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251203153314_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0,
+              "cysts": 7
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-12-03T15:34:34.733289",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251203153432_asha_20251030041854_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0,
+              "cysts": 7
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-12-03T15:36:37.560016",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251203153636_asha_20251029165229_asha_20251029160710_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0,
+              "cysts": 5
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-12-03T15:42:01.139355",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251203154158_asha_20251029160856_Ultrasound Image of Ovary and Follicles.png",
+            "cysts": 7,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 23.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 23.0,
+              "cysts": 7
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-12-03T15:48:51.040380",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251203154847_asha_20251029160811_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0,
+              "cysts": 14
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-12-03T15:50:27.818518",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 60.0,
+            "bmi": 23.4,
+            "cycle_irregular": true,
+            "cycle_days": 28,
+            "ovary_volume": 8.0,
+            "acne": false,
+            "hair": false,
+            "stress_high": false,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251203155026_asha_20251029165229_asha_20251029160710_WhatsApp Image 2025-10-29 at 21.12.11_42150f40.jpg",
+            "cysts": 5,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level B \u2014 Moderate",
+            "color": "#f59e0b",
+            "score": 48.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Normal BMI",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "No acne",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 48.0,
+              "cysts": 5
+            },
+            "bmi": 23.4
+          }
+        },
+        {
+          "timestamp": "2025-12-03T15:51:46.084300",
+          "data": {
+            "age": 26,
+            "height": 160.0,
+            "weight": 40.0,
+            "bmi": 15.6,
+            "cycle_irregular": true,
+            "cycle_days": 20,
+            "ovary_volume": 8.0,
+            "acne": true,
+            "hair": false,
+            "stress_high": true,
+            "medication": "",
+            "ultrasound_file": "C:\\major project\\ultrasounds\\asha_20251203155142_asha_20251029165204_asha_20251029160810_ashaaaa_20251029143404_Figure-2.jpg",
+            "cysts": 14,
+            "us_score": 100.0
+          },
+          "prognosis": {
+            "level": "Level C \u2014 Severe",
+            "color": "#dc2626",
+            "score": 53.0,
+            "confidence": 60.0,
+            "explanation": {
+              "bmi_note": "Underweight/low",
+              "age_note": "Reproductive age",
+              "cycle_note": "Irregular cycles",
+              "acne_note": "Acne present",
+              "hair_note": "No excess hair",
+              "ovary_note": "Ovary volume: 8.0 ml",
+              "us_score": 100.0,
+              "raw_score": 53.0,
+              "cysts": 14
+            },
+            "bmi": 15.6
+          }
+        }
+      ]
+    }
+  ]
+}
