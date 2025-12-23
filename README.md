@@ -46,13 +46,6 @@ PCOD affects millions of women globally, often remaining undiagnosed. This syste
 
 ✔ Random Forest performed better due to non-linear pattern handling.
 
----
-
-## 📊 Sample Output
-![Output](assets/output1.png)
-![Output](assets/output2.png)
-![Output](assets/output3.png)
-![Output](assets/output4.png)
 
 ---
 
