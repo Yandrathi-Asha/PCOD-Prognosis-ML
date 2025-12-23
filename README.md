@@ -42,7 +42,7 @@ PCOD affects millions of women globally, often remaining undiagnosed. This syste
 | Model | Accuracy |
 |-----|--------|
 | Logistic Regression |
-| Random Forest | XX% |
+| Random Forest |
 
 ✔ Random Forest performed better due to non-linear pattern handling.
 
