@@ -61,27 +61,6 @@ to create a **smart healthcare prediction system** that supports early diagnosis
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your project screenshots in a folder named `screenshots`)*
-
-### 🏠 Home Page
-
-![Home](screenshots/home.png)
-
-### 📋 Input Form
-
-![Input](screenshots/input.png)
-
-### 📊 Prediction Result
-
-![Result](screenshots/result.png)
-
-### 📈 Visualization / Graphs
-
-![Graphs](screenshots/graph.png)
-
----
 
 ## ⚙️ Getting Started
 
